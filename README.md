@@ -1,4 +1,4 @@
-# Multimodal DiT - Pytorch (wip)
+## Multimodal DiT - Pytorch (wip)
 
 Implementation of a multimodal diffusion transformer in Pytorch
 
